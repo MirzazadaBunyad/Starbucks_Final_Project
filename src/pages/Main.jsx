@@ -19,7 +19,7 @@ function Main() {
         </div>
         <div className="md:w-[50%] bg-[#EB81A5] max-md:w-full flex justify-center items-center">
           <img
-            src="/src/assets/img/img2.jpg"
+            src="https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-93784.jpg"
             className="max-w-[100%]"
             alt=""
           />
